@@ -58,4 +58,4 @@ class Operacion {
 }
 
 var sum =new Operacion(5,6)
-console.log(sum.aa()) 
+console.log(sum.aa())
